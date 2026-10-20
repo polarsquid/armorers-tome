@@ -61,7 +61,7 @@ writeFileSync(indexPath, html);
 
 // ---- 5. Friendly checks: things the add-on relies on. These only warn; the app still builds.
 const appJs = readFileSync(join(www, 'js/app.js'), 'utf8');
-for (const id of ['tnav', 'closeBook', 'moreMenu', 'moreBtn', 'filterBtn', 'filters', 'fileInput', 'exportAll'])
+for (const id of ['tome', 'tnav', 'closeBook', 'moreMenu', 'moreBtn', 'filterBtn', 'filters', 'fileInput', 'exportAll'])
   if (!html.includes(`id="${id}"`)) warn(`index.html no longer has id="${id}"; check the back button and import/export in the app.`);
 if (!/a\.download\s*=/.test(appJs)) warn('app.js no longer saves files with a.download; check that Export all still opens the share sheet in the app.');
 if (!/key\s*===?\s*'Escape'/.test(appJs)) warn('app.js no longer seems to close things with the Escape key; check the back button in the app.');
