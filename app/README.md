@@ -68,7 +68,8 @@ The build checks these and stops or warns with a message if they change:
 - **The script tag for `js/app.js`** must stay in `index.html` (adding `?v=` versions is fine).
 - **Things the add-on relies on** (it warns, but still builds): Export and Download using an
   `<a download>` link; the Escape key closing popups, the enlarged page and open books; popups having the
-  class `overlay` with `data-close` / `data-zoomclose` buttons; and the ids `tnav`, `closeBook`, `moreMenu`,
+  class `overlay` with `data-close` / `data-zoomclose` buttons; the book area `tome` filling its space;
+  and the ids `tnav`, `closeBook`, `moreMenu`,
   `moreBtn`, `filters`, `filterBtn`, `fileInput` and `exportAll`.
 
 Don't change `appId` in `capacitor.config.json`: it's permanent, and a new one is a different app.
