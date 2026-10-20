@@ -58,8 +58,10 @@ import com.getcapacitor.BridgeActivity;
 public class MainActivity extends BridgeActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        EdgeToEdge.enable(this);
+        // Capacitor sets up the app's window and theme first; only then switch on edge-to-edge.
+        // (Doing it earlier makes Android build the window before Capacitor has set its theme.)
         super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
     }
 }
 `);
@@ -79,7 +81,7 @@ const main = /(<style name="AppTheme\.NoActionBar" parent="[^"]+">\s*\n)/;
 if (!launch.test(styles) || !main.test(styles)) fail('android/app/src/main/res/values/styles.xml is not the expected Capacitor template.');
 if (!styles.includes('armorer_bg')) {
   styles = styles
-    .replace(launch, `$1        <item name="windowSplashScreenBackground">@color/armorer_bg</item>\n        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>\n`)
+    .replace(launch, `$1        <item name="windowSplashScreenBackground">@color/armorer_bg</item>\n        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>\n        <item name="android:windowNoTitle">true</item>\n        <item name="android:windowActionBar">false</item>\n`)
     .replace(main, `$1        <item name="android:windowBackground">@color/armorer_bg</item>\n`)
     .replace('<item name="android:background">@drawable/splash</item>', '<item name="android:background">@color/armorer_bg</item>');
 }
