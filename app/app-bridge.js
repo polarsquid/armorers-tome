@@ -9,6 +9,7 @@
    - The ids moreMenu, moreBtn, filters, filterBtn, tnav (class "open" while a book is open),
      closeBook and fileInput, and the
      Tome / Gallery / Codex buttons marked data-view="tome" etc.
+   - The book area is the element with id "tome", filling its space with position:absolute; inset:0.
 */
 (function () {
   'use strict';
@@ -118,8 +119,42 @@
       .catch(function () { return App.exitApp(); });
   }
 
+  /* ---------- 5. Keep the books still while a popup has the keyboard open ----------
+     In the app, the on-screen keyboard makes the whole page shorter (in Chrome it only covers it).
+     The books then re-measure themselves for the short space, which can leave a closed book
+     off-centre after the popup closes. While any popup is open, hold the book area at the size it
+     had, and let go once the popups are gone and the keyboard has closed. The books sit behind the
+     popup, so nothing visible changes while it is held. */
+  var held = null;   // { w: window width, h: window height } when the book area was held
+  function holdBooks() {
+    var tome = document.getElementById('tome');
+    if (held || !tome) return;
+    var h = tome.getBoundingClientRect().height;
+    if (h < 100) return;
+    tome.style.bottom = 'auto';
+    tome.style.height = h + 'px';
+    held = { w: window.innerWidth, h: window.innerHeight };
+  }
+  function releaseBooks() {
+    var tome = document.getElementById('tome');
+    if (!held || !tome) return;
+    tome.style.bottom = '';
+    tome.style.height = '';
+    held = null;
+  }
+  function checkHold() {
+    var open = document.querySelector('.overlay');
+    if (open) { holdBooks(); if (held && window.innerWidth !== held.w) { releaseBooks(); holdBooks(); } return; }
+    // no popups: let go, unless the keyboard is still closing (the page is still noticeably shorter)
+    if (held && window.innerWidth === held.w && window.innerHeight < held.h - 80) return;
+    releaseBooks();
+  }
+
   function start() {
     relaxImportPicker();
+    new MutationObserver(checkHold).observe(document.body, { childList: true });
+    window.addEventListener('resize', checkHold);
+    checkHold();
     if (Plugins.App && Plugins.App.addListener) Plugins.App.addListener('backButton', onBack);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
