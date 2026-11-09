@@ -40,7 +40,7 @@ Export all includes your journals, ticked items and pictures, so a backup is com
 
 The `data` folder holds an equipment list for each supported game, named after the game in lowercase with hyphens, for example `data/crimson-desert.json`. A list can also be a CSV spreadsheet (`data/<game>.csv`) with the columns `slot`, `name` and `type`; if both exist, the JSON file is used. The lists power the gear suggestions and the Item Codex, and they need the site to be opened from a web address (such as GitHub Pages), not straight from a file. Item icons, where a game has them, are in `data/icons/<game>/`.
 
-The lists were first compiled from two fan-made databases: [Crimson Desert Database](https://crimsondesert.gaming.tools/) for Crimson Desert, and [Enshrouded Vault](https://enshrouded.gamevault.in/) for Enshrouded. That was only the initial compile; the lists have been edited since.
+The lists were compiled from fan-made databases: [Crimson Desert Database](https://crimsondesert.gaming.tools/) & [Crimson DB](https://crimsondb.gg/) for Crimson Desert, and [Enshrouded Vault](https://enshrouded.gamevault.in/) for Enshrouded. The latest compile was 9th November 2026, adding DLC items for Crimson Desert.
 
 ## Files
 
@@ -53,6 +53,6 @@ data/            equipment lists and item icons, one set per game
 
 ## Version
 
-Current version: **v1.0**
+Current version: **v1.1**
 
-The version is set at the top of `index.html`, and the same number is added to the stylesheet and script links as `?v=1.0`. Changing it makes browsers download the new files straight away instead of using old saved copies.
+The version is set at the top of `index.html`, and the same number is added to the stylesheet and script links as `?v=1.1`. Changing it makes browsers download the new files straight away instead of using old saved copies.
