@@ -1,5 +1,6 @@
 slot,name,type
 headgear,Alpha Wolf Helm,
+headgear,Architect's Cloth Hat,Cloth
 headgear,Arkhan Leather Helm,Leather
 headgear,Ashad Plate Helm,Plate
 headgear,Ator's Will Helm,
@@ -23,15 +24,19 @@ headgear,Brimstone Gas Mask,
 headgear,Canta Plate Helm,Plate
 headgear,Carta Plate Helm,Plate
 headgear,Catfish Plate Helm,Plate
+headgear,Charter's Diving Helm,
+headgear,Charter's Light Diving Helm,
 headgear,Chelcia Plate Helm,Plate
 headgear,Circuit Hijacking Helm,
 headgear,Circus Jester Hat,
 headgear,Condemner's Plate Helm,Plate
 headgear,Constellation Helm,
+headgear,Cook's Cloth Hat,Cloth
 headgear,Crimson Chaser Plate Helm,Plate
 headgear,Crude Devil Mask,
 headgear,Dark Ringleader's Cloth Helm,Cloth
 headgear,Deceiver's Fedora,
+headgear,Deepwater Carapace Helm,
 headgear,Deer Hat,
 headgear,Delegation Leather Hat,Leather
 headgear,Demeniss Ceremonial Plate Helm,Plate
@@ -45,9 +50,12 @@ headgear,Elegant Carmine Plate Helm,Plate
 headgear,Elite Flame Knights Plate Helm,Plate
 headgear,Executioner of Darkness Plate Helm,Plate
 headgear,Faded Deer Antler,
+headgear,Fedora of Fate,
 headgear,Feral Sentinel Helm,
 headgear,Ferman Plate Helm,Plate
+headgear,Fisherman's Cloth Hat,Cloth
 headgear,Flame Knights Plate Helm,Plate
+headgear,Forsaken Oath Plate Helm,Plate
 headgear,Frostcursed Plate Helm,Plate
 headgear,Goldbranch Plate Crown,Plate
 headgear,Golden Free Company's Plate Helm,Plate
@@ -77,6 +85,8 @@ headgear,Leather Riding Hat,Leather
 headgear,Light of the Battlefield Plate Helm,Plate
 headgear,Lightning Bolt Plate Helm,Plate
 headgear,Lizard Leather Helm,Leather
+headgear,Marine Charter's Diving Helm,
+headgear,Marine Charter's Light Diving Helm,
 headgear,Marni Laser Helm,
 headgear,Marni's Machina Knight Headgear,
 headgear,Military Visione,
@@ -84,13 +94,16 @@ headgear,Miner's Lantern Hat,
 headgear,Mistcloaked Owl Plate Helm,Plate
 headgear,Mortain Plate Helm,Plate
 headgear,Musket Border Guard Standard Helm,
+headgear,Naval Officer's Hat,
 headgear,Northern Fighter's Plate Helm,Plate
 headgear,Odeck's Protector Plate Helm,Plate
 headgear,Official Knight's Plate Helm,Plate
+headgear,Old Navy Hat,
 headgear,Pailunese Hat,
 headgear,Pirate King Hat,
 headgear,Plate Helm of Cursed Soul,Plate
 headgear,Plate Helm of the Shadows,Plate
+headgear,Plate Helm of Void,Plate
 headgear,Pororin Petal Hat,
 headgear,Prototype Visione,
 headgear,Pumpkin Head,
@@ -106,6 +119,7 @@ headgear,Scarlet Blades Gas Mask,
 headgear,Scholastone Cap,
 headgear,Schtump Plate Helm,Plate
 headgear,Scorchflame Plate Helm,Plate
+headgear,Sea Reaver's Hat,
 headgear,Sentinel of Tenacity Helm,
 headgear,Sentinel of Trust Helm,
 headgear,Shadowleaf Helm,
@@ -115,8 +129,10 @@ headgear,Skyblazer Cloth Helm,Cloth
 headgear,Solas Plate Helm,Plate
 headgear,St. Halssius Priest's Hat,
 headgear,Steelmaw Plate Helm,Plate
+headgear,Stormlord Hat,
 headgear,Straw Bale Helm,
 headgear,Sungrove Standard Plate Helm,Plate
+headgear,Sunken Azuretide Plate Helm,Plate
 headgear,Tech Hat,
 headgear,Tempered Visione,
 headgear,The Ashen's Plate Helm,Plate
@@ -135,6 +151,7 @@ headgear,Wolf Tracker Helm,
 headgear,Wooden Mask of Lost Justice,
 headgear,Wyvernflame Cloth Helm,Cloth
 headgear,Ziggurat Cloth Helm,Cloth
+chest,Architect's Cloth Workwear,Cloth
 chest,Armor of Loyal Friendship,
 chest,Ashad Plate Armor,Plate
 chest,Ashclaw Leather Armor,Leather
@@ -158,8 +175,11 @@ chest,Buellen Leather Armor,Leather
 chest,Camouflage Outfit,
 chest,Canta Plate Armor,Plate
 chest,Carta Plate Armor,Plate
+chest,Charter's Diving Suit,
+chest,Charter's Light Diving Suit,
 chest,Chelcia Plate Armor,Plate
 chest,Condemner's Plate Armor,Plate
+chest,Cook's Cloth Uniform,Cloth
 chest,Crimson Chaser Mail,
 chest,Dancing Catfish Cloth Armor,Cloth
 chest,Dark Executioner Leather Armor,Leather
@@ -168,6 +188,7 @@ chest,Dark Ringleader's Cloth Armor,Cloth
 chest,Delesyian Cloth Attire,Cloth
 chest,Demeniss Ceremonial Plate Armor,Plate
 chest,Demeniss Honor Armor,
+chest,Demenissian Council Robes,
 chest,Demenissian Elite Uniform Leather Armor,Leather
 chest,Demenissian Grand General Plate Armor,Plate
 chest,Demenissian Uniform Leather Armor,Leather
@@ -180,8 +201,11 @@ chest,Duskfang Leather Armor,Leather
 chest,Duskmoon Cloth Armor,Cloth
 chest,Elegant Carmine Leather Armor,Leather
 chest,Ferman Plate Armor,Plate
+chest,Fisherman's Cloth Attire,Cloth
 chest,Flame Knights Plate Armor,Plate
+chest,Forsaken Oath Plate Armor,Plate
 chest,Frenoa Plate Armor,Plate
+chest,Frostcursed Plate Armor,Plate
 chest,Frozen Heart Plate Armor,Plate
 chest,Gael Cloth Armor,Cloth
 chest,Golden Free Company's Plate Armor,Plate
@@ -189,6 +213,7 @@ chest,Golden Freesword Light Armor,
 chest,Golden Greed Plate Armor,Plate
 chest,Grave Robber's Leather Armor,Leather
 chest,Grey Wolf Leather Armor,Leather
+chest,Greymane Apprentice Combat Armor,
 chest,Greymane Cloth Armor,Cloth
 chest,Greymane Light Armor,
 chest,Grotevant Plate Armor,Plate
@@ -214,12 +239,15 @@ chest,Light of the Battlefield Plate Armor,Plate
 chest,Lightning Bolt Plate Armor,
 chest,Lonely Bomb Leather Armor,Leather
 chest,Mardain Leather Armor,Leather
+chest,Marine Charter's Diving Suit,
+chest,Marine Charter's Light Diving Suit,
 chest,Martial Artist's Cloth Garb,Cloth
 chest,Martial Monk's Cloth Robe,Cloth
 chest,Matana Leather Armor,Leather
 chest,Mistcloaked Owl Leather Armor,Leather
 chest,Mortain Chain Mail,Chain
 chest,Musket Border Guard Standard Armor,
+chest,Naval Officer's Armor,
 chest,Nibrak Cloth Armor,Cloth
 chest,Northern Fighter's Chain Mail,Chain
 chest,Oak Barrel Leather Armor,Leather
@@ -228,6 +256,7 @@ chest,Official Knight's Plate Armor,Plate
 chest,Pailunese Attire,
 chest,Plate Armor of Cursed Soul,Plate
 chest,Plate Armor of the Shadows,Plate
+chest,Plate Armor of Void,Plate
 chest,Pororin Cloth Attire,Cloth
 chest,Purple Scout Armor,
 chest,Rabbit Leather Coat,Leather
@@ -241,6 +270,7 @@ chest,Scarlet Blades Cloth Armor,Cloth
 chest,Scholastone Uniform,
 chest,Schtump Cloth Armor,Cloth
 chest,Scorchflame Plate Armor,Plate
+chest,Sea Reaver's Combat Suit,
 chest,Sermena Cloth Armor,Cloth
 chest,Shadowleaf Outfit,
 chest,Silverwolf Leather Armor,Leather
@@ -248,7 +278,10 @@ chest,Skyblazer Cloth Armor,Cloth
 chest,Solas Plate Armor,Plate
 chest,St. Halssius Priest Attire,
 chest,Stein Leather Armor,Leather
+chest,Stormlord Combat Suit,
+chest,Sunforged Shade Armor,
 chest,Sungrove Standard Plate Armor,Plate
+chest,Sunken Azuretide Plate Armor,Plate
 chest,Sunset Reed Leather Armor,Leather
 chest,Tariv Cloth Attire,Cloth
 chest,The Ashen's Plate Armor,Plate
@@ -295,6 +328,7 @@ cloak,Dark Ringleader's Cloth Cloak,Cloth
 cloak,Delesyian Cloth Cloak,Cloth
 cloak,Delesyian Noble's Cloak,
 cloak,Demeniss Ceremonial Cloak,
+cloak,Demenissian Council Cloak,
 cloak,Demenissian Grand General Plate Cloak,Plate
 cloak,Demenissian Noble's Cloak,
 cloak,Demenissian Uniform Leather Cloak,Leather
@@ -306,6 +340,7 @@ cloak,Duskfang Leather Cloak,Leather
 cloak,Elegant Carmine Leather Cloak,Leather
 cloak,Executioner of Darkness Plate Cloak,Plate
 cloak,Ferman Plate Cloak,Plate
+cloak,Fisherman's Cloth Cloak,Cloth
 cloak,Frostcursed Plate Cloak,Plate
 cloak,Frozen Heart Plate Cloak,Plate
 cloak,Golden Greed Plate Cloak,Plate
@@ -336,6 +371,7 @@ cloak,Official Knight's Cloth Cloak,Cloth
 cloak,Pailunese Cloak,
 cloak,Plate Cloak of Cursed Soul,Plate
 cloak,Plate Cloak of the Shadows,Plate
+cloak,Plate Cloak of Void,Plate
 cloak,Pororin Cloth Cloak,Cloth
 cloak,Purple Scout Cloak,
 cloak,Reindeer Cloak,
@@ -366,6 +402,7 @@ cloak,Wolf Cloak,
 cloak,Wolf Tracker Cloth Cloak,Cloth
 cloak,Ynitium Leather Cloak,Leather
 cloak,Yrkabel Cloth Cloak,Cloth
+gloves,Architect's Leather Gloves,Leather
 gloves,Ashad Plate Gloves,Plate
 gloves,Ashen Wolf's Leather Gloves,Leather
 gloves,Ator's Will Leather Gloves,Leather
@@ -379,11 +416,15 @@ gloves,Brass Warden's Plate Gloves,Plate
 gloves,Canta Plate Gloves,Plate
 gloves,Carta Leather Gloves,Leather
 gloves,Champion's Plate Gloves,Plate
+gloves,Charter's Diving Gloves,
+gloves,Charter's Light Diving Gloves,
+gloves,Cook's Leather Gloves,Leather
 gloves,Counterweight Leather Gloves,Leather
 gloves,Crimson Chaser Chain Gloves,Chain
 gloves,Dallaban Leather Gloves,Leather
 gloves,Dark Marksman's Plate Gloves,Plate
 gloves,Dark Ringleader's Leather Gloves,Leather
+gloves,Demenissian Council Gloves,
 gloves,Demenissian Elite Plate Gloves,Plate
 gloves,Demenissian Uniform Leather Gloves,Leather
 gloves,Dulone Plate Gloves,Plate
@@ -393,6 +434,7 @@ gloves,Elegant Carmine Plate Gloves,Plate
 gloves,Executioner of Darkness Plate Gloves,Plate
 gloves,Ferman Plate Gloves,Plate
 gloves,Fluttering Radiance Plate Gloves,Plate
+gloves,Forsaken Oath Plate Gloves,Plate
 gloves,Frostcursed Plate Gloves,Plate
 gloves,Frozen Heart Plate Gloves,Plate
 gloves,Golden Greed Plate Gloves,Plate
@@ -415,6 +457,8 @@ gloves,Knight of Carnage Plate Gloves,Plate
 gloves,Leather Gloves of Earth's Honor,Leather
 gloves,Light of the Battlefield Plate Gloves,Plate
 gloves,Lightning Bolt Plate Gloves,Plate
+gloves,Marine Charter's Diving Gloves,
+gloves,Marine Charter's Light Diving Gloves,
 gloves,Martial Monk's Cloth Gloves,Cloth
 gloves,Master Trainer's Touch,
 gloves,Melvin Leather Gloves,Leather
@@ -428,6 +472,7 @@ gloves,Pernicia Plate Gloves,Plate
 gloves,Plate Gloves of Cursed Soul,Plate
 gloves,Plate Gloves of the Fallen Kingdom,Plate
 gloves,Plate Gloves of the Shadows,Plate
+gloves,Plate Gloves of Void,Plate
 gloves,Reins of Open Sky,
 gloves,Scorchflame Plate Gloves,Plate
 gloves,Shadowleaf Gloves,
@@ -435,6 +480,7 @@ gloves,Silverwolf Leather Gloves,Leather
 gloves,Skyblazer Leather Gloves,Leather
 gloves,Solas Plate Gloves,Plate
 gloves,Strongbow Gloves,
+gloves,Sunken Azuretide Plate Gloves,Plate
 gloves,Sunset Reed Cloth Gloves,Cloth
 gloves,Tariv Cloth Gloves,Cloth
 gloves,Tech Gloves,
@@ -446,6 +492,7 @@ gloves,Wanderer of Faith Leather Gloves,Leather
 gloves,Weasel Leather Gloves,Leather
 gloves,White Bloodwind Plate Gloves,Plate
 gloves,Ynitium Leather Gloves,Leather
+boots,Architect's Leather Boots,Leather
 boots,Ashad Plate Boots,Plate
 boots,Ashen Wolf's Leather Boots,Leather
 boots,Ator's Will Leather Boots,Leather
@@ -455,11 +502,15 @@ boots,Belkandor Plate Boots,Plate
 boots,Blackwing Leather Boots,Leather
 boots,Bollin Leather Boots,Leather
 boots,Bolton Leather Boots,Leather
+boots,Booster Boots,
 boots,Canta Plate Boots,Plate
 boots,Carta Plate Boots,Plate
+boots,Charter's Diving Boots,
+boots,Charter's Light Diving Boots,
 boots,Chelcia Plate Boots,Plate
 boots,Dark Marksman's Plate Boots,Plate
 boots,Demeniss Elite Uniform Leather Boots,Leather
+boots,Demenissian Council Boots,
 boots,Demenissian Plate Boots,Plate
 boots,Demenissian Uniform Leather Boots,Leather
 boots,Dulone Plate Boots,Plate
@@ -468,7 +519,9 @@ boots,Elegant Carmine Plate Boots,Plate
 boots,Executioner of Darkness Plate Boots,Plate
 boots,Ferman Leather Boots,Leather
 boots,Fire Walk Boots,
+boots,Fisherman's Leather Boots,Leather
 boots,Fluttering Radiance Plate Boots,Plate
+boots,Forsaken Oath Plate Boots,Plate
 boots,Frostcursed Plate Boots,Plate
 boots,Frozen Heart Plate Boots,Plate
 boots,Giant's Boots,
@@ -494,6 +547,8 @@ boots,Leather Boots of Earth's Honor,Leather
 boots,Light of the Battlefield Plate Boots,Plate
 boots,Lightning Bolt Plate Boots,Plate
 boots,Low-Heeled Leather Boots,Leather
+boots,Marine Charter's Diving Boots,
+boots,Marine Charter's Light Diving Boots,
 boots,Martial Monk's Cloth Boots,Cloth
 boots,Meadows Leather Boots,Leather
 boots,Nagmore Leather Boots,Leather
@@ -506,6 +561,7 @@ boots,Pillager's Leather Boots,Leather
 boots,Plate Boots of Cursed Soul,Plate
 boots,Plate Boots of the Fallen Kingdom,Plate
 boots,Plate Boots of the Shadows,Plate
+boots,Plate Boots of Void,Plate
 boots,Rabbit Cloth Boots,Cloth
 boots,Radiant Plate Boots,Plate
 boots,Rhonda Leather Boots,Leather
@@ -520,6 +576,7 @@ boots,Silverwolf Leather Boots,Leather
 boots,Solas Plate Boots,Plate
 boots,St. Halssius Priest's Leather Boots,Leather
 boots,Stirrups of the Open Sky,
+boots,Sunken Azuretide Plate Boots,Plate
 boots,Sunset Reed Cloth Boots,Cloth
 boots,Tariv Cloth Boots,Cloth
 boots,Tesslit Leather Boots,Leather
@@ -565,6 +622,11 @@ weapons,Animal Spirit,Shield
 weapons,Anti-Caliburn Signboard,Banner pike
 weapons,Antumbra Sign,Banner pike
 weapons,Antumbra's Eye,Greathammer
+weapons,Apprentice Cook's Frying Pan,Mace
+weapons,Apprentice Cook's Frying Pan Lid,Shield
+weapons,Apprentice Cook's Jar Lid,Shield
+weapons,Apprentice Cook's Kitchen Knife,Dagger
+weapons,Apprentice Cook's Ladle,Mace
 weapons,Arben Greatsword,Greatsword
 weapons,Arlem Warhammer,Greathammer
 weapons,Arlen Musket,Musket
@@ -574,6 +636,7 @@ weapons,Artisan's Ornamented Shield,Shield
 weapons,Ashen Execution,Greathammer
 weapons,Ator's Finger,Dagger
 weapons,Awakened Spirit,Halberd
+weapons,Azurewater Shield,Shield
 weapons,Balgran Shield,Shield
 weapons,Balton Hammer,Mace
 weapons,Balton Large Shield,Shield
@@ -598,9 +661,11 @@ weapons,Bekker Shield,Shield
 weapons,Bekker Warhammer,Greathammer
 weapons,Bismuth Cannon,Hand cannon
 weapons,Black Bears Banner Pike with Tassel,Banner pike
+weapons,Black Fang Sword,Sword
 weapons,Black Iron Axe,Axe
 weapons,Black Oath Shield,Shield
 weapons,Black Sun,Shield
+weapons,Blackwave Spear,Spear
 weapons,Blaster No. 8,Gauntlet
 weapons,Blazing Shield,Shield
 weapons,Blazing Spear,Spear
@@ -613,6 +678,7 @@ weapons,Bonepit Halberd,Halberd
 weapons,Bonepit Mace,Mace
 weapons,Bonepit Warhammer,Greathammer
 weapons,Bow of the Fleeting,Bow
+weapons,Branch,Sword
 weapons,Brass Rose Rapier,Rapier
 weapons,Bringer of Balance,Longsword
 weapons,Cactus Warhammer,Greathammer
@@ -620,6 +686,8 @@ weapons,Caliburn's Mercy Pistol,Pistol
 weapons,Calphadean Contribution Banner Pike,Banner pike
 weapons,Celeste Halberd,Halberd
 weapons,Ceremonial Warhammer,Greathammer
+weapons,Chain Anchor Mace,Mace
+weapons,Chieftain's Mace,Mace
 weapons,Chillfallen Sword,Sword
 weapons,Circling Moon,Spear
 weapons,City Guard's Shield,Shield
@@ -634,6 +702,7 @@ weapons,Crimson Warden's Bow,Bow
 weapons,Crow Brothers Axe,Axe
 weapons,Crow Brothers Dagger,Dagger
 weapons,Crow Brothers Warhammer,Greathammer
+weapons,Crow Cloth Blindfold,Accessory
 weapons,Crow Whisperer,Greathammer
 weapons,Crude Club,Mace
 weapons,Dagger of Dark Pursuit,Dagger
@@ -648,6 +717,7 @@ weapons,Dekarr Greataxe,Two-handed axe
 weapons,Dekarr Hammer,Mace
 weapons,Dekarr Shield,Shield
 weapons,Dekarr Sword,Sword
+weapons,Delesyian Circlet,Accessory
 weapons,Delesyian Contribution Banner Pike,Banner pike
 weapons,Delesyian Dagger,Dagger
 weapons,Delesyian Longsword,Longsword
@@ -657,6 +727,7 @@ weapons,Delesyian Shotgun,Shotgun
 weapons,Delonde Axe,Axe
 weapons,Demeniss Royal Guard Shield,Shield
 weapons,Demenissian Chainsaw,Gauntlet
+weapons,Demenissian Circlet,Accessory
 weapons,Demenissian Contribution Banner Pike,Banner pike
 weapons,Demenissian Gold-Decorated Shield,Shield
 weapons,Demenissian Hero's Musket,Musket
@@ -665,6 +736,7 @@ weapons,Demenissian Shield of Obedience,Shield
 weapons,Demenissian Shield of Valor,Shield
 weapons,Demenissian Silver-Decorated Shield,Shield
 weapons,Demenissian Soldier's Large Shield,Shield
+weapons,Depthbinder Rapier,Rapier
 weapons,Derictus Spear,Spear
 weapons,Desert Hammer,Mace
 weapons,Dewhaven Longsword,Longsword
@@ -686,13 +758,23 @@ weapons,Electro-Mecha Spear,Spear
 weapons,Elemore Rapier,Rapier
 weapons,Elenore Rapier,Rapier
 weapons,Elite Vanguard,Spear
+weapons,Enhanced Fatum Blaster,Gauntlet
+weapons,Enhanced Propulsion Breathing Device,Accessory
 weapons,Entwined Red Thread Hammer,Mace
+weapons,Expert Cook's Frying Pan,Mace
+weapons,Expert Cook's Frying Pan Lid,Shield
+weapons,Expert Cook's Jar Lid,Shield
+weapons,Expert Cook's Kitchen Knife,Dagger
+weapons,Expert Cook's Ladle,Mace
+weapons,Explorer's Breathing Device,Accessory
 weapons,Falconne Pistol,Pistol
 weapons,Fallen Kingdom's Rapier,Rapier
 weapons,Fallen Kingdom's Sword,Sword
 weapons,Fallen Noble's Rapier,Rapier
 weapons,Fan-Blade Greataxe,Two-handed axe
+weapons,Fang of the Depths,Spear
 weapons,Fated Shadow,Sword
+weapons,Feral Claw,Longsword
 weapons,Finest Rhinard Cannon,Hand cannon
 weapons,Flame Knights Shield,Shield
 weapons,Flame Spear,Spear
@@ -702,9 +784,12 @@ weapons,Frostbone Shield,Shield
 weapons,Frostfang,Spear
 weapons,Frozen Anguish,Longsword
 weapons,Frozen Soul,Mace
+weapons,Frying Pan,Mace
+weapons,Frying Pan Lid,Shield
 weapons,Furious Waves Gauntlet,Gauntlet
 weapons,Gale Shield,Shield
 weapons,Gamma Barrel Cannon,Hand cannon
+weapons,Gatekeeper's Longsword,Longsword
 weapons,Giant Bamboo Stalk,Sword
 weapons,Giant Tree Branch,Sword
 weapons,Gilded Shield,Shield
@@ -725,17 +810,30 @@ weapons,Golden-Knotted Ancestral Bow,Bow
 weapons,Gorthak Greataxe,Two-handed axe
 weapons,Gorthak Warhammer,Greathammer
 weapons,Grace Rapier,Rapier
+weapons,Grandmaster's Frying Pan,Mace
+weapons,Grandmaster's Frying Pan Lid,Shield
+weapons,Grandmaster's Jar Lid,Shield
+weapons,Grandmaster's Kitchen Knife,Dagger
+weapons,Grandmaster's Ladle,Mace
 weapons,Grasping Moon,Spear
 weapons,Greathammer of Fire,Greathammer
 weapons,Grey Wolf Bow,Bow
 weapons,Grey Wolf Wooden Shield,Shield
 weapons,Grey Wolf's Sword,Sword
+weapons,Guardian's Horn,Mace
 weapons,Guidance of Dark Pursuit,Greathammer
 weapons,Gustav Musket,Musket
 weapons,Harkan's Spear,Spear
+weapons,Harpoon Spear,Spear
+weapons,Head Chef's Frying Pan,Mace
+weapons,Head Chef's Frying Pan Lid,Shield
+weapons,Head Chef's Jar Lid,Shield
+weapons,Head Chef's Kitchen Knife,Dagger
+weapons,Head Chef's Ladle,Mace
 weapons,Hellhounds Chopping Axe,Two-handed axe
 weapons,Helms Greathammer,Greathammer
 weapons,Helms Musket,Musket
+weapons,Hernandian Circlet,Accessory
 weapons,Hernandian Contribution Banner Pike,Banner pike
 weapons,Hollow Visage,Sword
 weapons,Horseshoe-Blade Greataxe,Two-handed axe
@@ -753,10 +851,12 @@ weapons,Iris Mace,Mace
 weapons,Iris Shield,Shield
 weapons,Iris Warhammer,Greathammer
 weapons,Iron Fists Gauntlet,Gauntlet
+weapons,Jar Lid,Shield
 weapons,Jemel Pistol,Pistol
 weapons,Kadel Mace,Mace
 weapons,Khaled Shield,Shield
 weapons,King's Dagger,Dagger
+weapons,Kitchen Knife,Dagger
 weapons,Kite Shield,Shield
 weapons,Knightlord's Sword,Sword
 weapons,Kordaav Mace,Mace
@@ -773,6 +873,7 @@ weapons,Kylus Bow,Bow
 weapons,Kylus Dagger,Dagger
 weapons,Kylus Greataxe,Two-handed axe
 weapons,Kylus Spear,Spear
+weapons,Ladle,Mace
 weapons,Lambert Axe,Axe
 weapons,Lambert Halberd,Halberd
 weapons,Lambert Rapier,Rapier
@@ -791,12 +892,20 @@ weapons,Liberre Rapier,Rapier
 weapons,Lifsoth Large Shield,Shield
 weapons,Lightning Greathammer,Greathammer
 weapons,Lightningblade of Greed,Sword
+weapons,Longsword of Void,Longsword
 weapons,Lucon Large Shield,Shield
+weapons,Lumen Longsword,Longsword
+weapons,Lumen Sword,Sword
 weapons,Lusec Greatsword,Greatsword
 weapons,Mace of Ambition,Mace
 weapons,Mace of Betrayal,Mace
 weapons,Mace of Resolve,Mace
 weapons,Mace of the Fleeting,Mace
+weapons,Maestro's Frying Pan,Mace
+weapons,Maestro's Frying Pan Lid,Shield
+weapons,Maestro's Jar Lid,Shield
+weapons,Maestro's Kitchen Knife,Dagger
+weapons,Maestro's Ladle,Mace
 weapons,Maeve Axe,Axe
 weapons,Marauder's Halberd,Halberd
 weapons,Marching Baton,Mace
@@ -804,6 +913,12 @@ weapons,Marni Devotee's Mace,Mace
 weapons,Marni Musket,Musket
 weapons,Marni Tank Blaster,Gauntlet
 weapons,Mass-Produced Large Rekel Shield,Shield
+weapons,Master Du's Circlet,Accessory
+weapons,Master's Frying Pan,Mace
+weapons,Master's Frying Pan Lid,Shield
+weapons,Master's Jar Lid,Shield
+weapons,Master's Kitchen Knife,Dagger
+weapons,Master's Ladle,Mace
 weapons,Mature Bamboo Stalk,Sword
 weapons,Mature Tree Branch,Sword
 weapons,Mechanical Clockwork Blaster,Gauntlet
@@ -846,11 +961,17 @@ weapons,Nazk Sword,Sword
 weapons,Noble Man's Bow,Bow
 weapons,North Wind Shield,Shield
 weapons,North Wind Trident,Spear
+weapons,Novice Cook's Frying Pan,Mace
+weapons,Novice Cook's Frying Pan Lid,Shield
+weapons,Novice Cook's Jar Lid,Shield
+weapons,Novice Cook's Kitchen Knife,Dagger
+weapons,Novice Cook's Ladle,Mace
 weapons,Oath Ring Shield,Shield
 weapons,Oblivion of the Past,Greathammer
 weapons,Octarr's Legacy,Mace
 weapons,Odeck Hardwood Shield,Shield
 weapons,Odeck Wooden Club Mace,Mace
+weapons,Oongka's Circlet,Accessory
 weapons,Orc Blaster,Gauntlet
 weapons,Ordinary Gloves,Gauntlet
 weapons,Pailunese Contribution Banner Pike,Banner pike
@@ -864,8 +985,13 @@ weapons,Patterned Stone Greataxe,Two-handed axe
 weapons,Peltree Sword,Sword
 weapons,Perennial Bamboo Stalk,Sword
 weapons,Perennial Branch,Sword
+weapons,Pirate Eyepatch,Accessory
+weapons,Pirate's Sword,Sword
+weapons,Priest's Ceremonial Sword,Sword
 weapons,Propeller Spear,Spear
+weapons,Propulsion Breathing Device,Accessory
 weapons,Purple Scout Shield,Shield
+weapons,Rampart Tortoiseshell,Shield
 weapons,Rapier of Amity,Rapier
 weapons,Rattan Shield,Shield
 weapons,Reckoning,Spear
@@ -897,9 +1023,11 @@ weapons,Saltroad Mace,Mace
 weapons,Saltroad Warhammer,Greathammer
 weapons,Sanguine Knell,Greathammer
 weapons,Sapling Branch,Sword
+weapons,Satyros Spear,Spear
 weapons,Savage Longsword,Longsword
 weapons,Savage Sawblade,Sword
 weapons,Savage Woodland Spirit Killer,Mace
+weapons,Seahorse Staff,Greathammer
 weapons,Serdin Greatsword,Greatsword
 weapons,Shackle of Might,Sword
 weapons,Shadow of the Past Pistol,Pistol
@@ -918,8 +1046,15 @@ weapons,Shotgun Shield,Shield
 weapons,Sielos Longsword,Longsword
 weapons,Sigremon Greataxe,Two-handed axe
 weapons,Silver Visione Stand,Spear
+weapons,Silverbreaker Mace,Mace
+weapons,Silverwave Longsword,Longsword
 weapons,Silverwolf Axe,Axe
 weapons,Sior Blaster,Gauntlet
+weapons,Skilled Cook's Frying Pan,Mace
+weapons,Skilled Cook's Frying Pan Lid,Shield
+weapons,Skilled Cook's Jar Lid,Shield
+weapons,Skilled Cook's Kitchen Knife,Dagger
+weapons,Skilled Cook's Ladle,Mace
 weapons,Slave Gladiator Branding Spear,Spear
 weapons,Small Banner Pike,Banner pike
 weapons,Small Black Bears Banner Pike,Banner pike
@@ -955,6 +1090,12 @@ weapons,Small Wyvernflames Banner Pike,Banner pike
 weapons,Sorcerer's Massage Stick,Mace
 weapons,Sorcerer's Staff,Spear
 weapons,Soul Spear,Spear
+weapons,Soul Sword,Sword
+weapons,Sous-Chef's Frying Pan,Mace
+weapons,Sous-Chef's Frying Pan Lid,Shield
+weapons,Sous-Chef's Jar Lid,Shield
+weapons,Sous-Chef's Kitchen Knife,Dagger
+weapons,Sous-Chef's Ladle,Mace
 weapons,Southern Wandering Troll's Crossbow,Crossbow
 weapons,Spada Sword,Sword
 weapons,Spear of Righteousness,Spear
@@ -962,6 +1103,7 @@ weapons,Spear of the Fleeting,Spear
 weapons,Specter Sword,Sword
 weapons,Spencer Pistol,Pistol
 weapons,Spine of the Earth,Mace
+weapons,Spiral Spear,Spear
 weapons,Spirit Bamboo Stalk,Sword
 weapons,Spirit Tree Branch,Sword
 weapons,Split Tooth,Two-handed axe
@@ -969,6 +1111,7 @@ weapons,Sprout Branch,Sword
 weapons,Staff of the Fleeting,Spear
 weapons,Staglord's Shield,Shield
 weapons,Steel Blaster,Gauntlet
+weapons,Stormforged Shield,Shield
 weapons,Sturdy Ancient Bamboo Stalk,Sword
 weapons,Sturdy Ancient Tree Branch,Sword
 weapons,Sturdy Bamboo Sapling Stalk,Sword
@@ -996,6 +1139,7 @@ weapons,Sword of the Fleeting,Sword
 weapons,Sword of the Lord,Sword
 weapons,Sword of the Wolf,Sword
 weapons,Sword of Wayward Woods,Sword
+weapons,Swordbreaker,Sword
 weapons,Sydmon Bow,Bow
 weapons,Sydmon Dagger,Dagger
 weapons,Sydmon Hammer,Mace
@@ -1011,6 +1155,7 @@ weapons,Tardik Longsword,Longsword
 weapons,Tardik Shield,Shield
 weapons,Tardik Warhammer,Greathammer
 weapons,Tauria Curved Sword,Sword
+weapons,Tempest Warhammer,Greathammer
 weapons,Thalwynd Hammer,Mace
 weapons,Thalwynd Large Shield,Shield
 weapons,Thalwynd Longsword,Longsword
@@ -1035,16 +1180,19 @@ weapons,Twilight Messengers' Bow,Bow
 weapons,Twisted Thorns,Shield
 weapons,Twisted Verdict,Longsword
 weapons,Valgash's Incomplete Work,Spear
+weapons,Varnian Circlet,Accessory
 weapons,Varnian Contribution Banner Pike,Banner pike
 weapons,Varnian Dagger,Dagger
 weapons,Varnian Sword,Sword
 weapons,Verak Greatsword,Greatsword
 weapons,Vessel of Dark Pursuit,Longsword
+weapons,Veyrfin Sword,Sword
 weapons,Vilancia Pistol,Pistol
 weapons,Volcanic Blaster,Gauntlet
 weapons,Volono Rapier,Rapier
 weapons,Volono Sword,Sword
 weapons,Vow of the Dead King,Halberd
+weapons,Wailing Sea Greathammer,Greathammer
 weapons,Warspike Bow,Bow
 weapons,Warspike Spear,Spear
 weapons,Wells Mace,Mace
